@@ -6,6 +6,8 @@
 
 ![https://github.com/PiyushIIITD/ComputerVision_Project/blob/929bed47b2e72c02b2baece27612932de39b9cbc/hypothesis.png](https://github.com/PiyushIIITD/ComputerVision_Project/blob/929bed47b2e72c02b2baece27612932de39b9cbc/hypothesis.png)
 
+![https://github.com/PiyushIIITD/ComputerVision_Project/blob/fb954b277a9468d4220fa9a766dc53f20bdb9109/GAPS.png](https://github.com/PiyushIIITD/ComputerVision_Project/blob/fb954b277a9468d4220fa9a766dc53f20bdb9109/GAPS.png)
+
 ![https://github.com/PiyushIIITD/ComputerVision_Project/blob/e0d0d3211ea894c72ec5f70fe04bb8b26bb6b6f0/0000541_car_motorcycle_gradcam.png](https://github.com/PiyushIIITD/ComputerVision_Project/blob/e0d0d3211ea894c72ec5f70fe04bb8b26bb6b6f0/0000541_car_motorcycle_gradcam.png)
 
 
